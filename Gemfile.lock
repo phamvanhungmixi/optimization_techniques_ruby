@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    benchmark-ips (2.7.2)
+    rake (12.3.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  benchmark-ips (>= 2.0)
+  rake
+
+BUNDLED WITH
+   1.17.1
