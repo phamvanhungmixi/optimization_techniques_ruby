@@ -1,5 +1,8 @@
 # optimization_techniques_ruby
 This documentation is inspired by this talk in rubykaigi 2019 http://code.jeremyevans.net/presentations/rubykaigi2019
+
+#### How to run benchmark
+
 ```
 ➜  optimization_techniques_ruby git:(master) ✗ bundle install --path=vendor/bundle
 Using rake 12.3.2
